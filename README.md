@@ -9,5 +9,7 @@ In the TODO app data is stored in the local device which we can delete after com
 #Screenshot  video of the app is below 
             👇
 
-                                  https://user-images.githubusercontent.com/105273927/195668706-c088fb95-7d75-49b9-a514-e38c9ecedcd7.mp4
+
+
+https://user-images.githubusercontent.com/105273927/195668706-c088fb95-7d75-49b9-a514-e38c9ecedcd7.mp4
 
