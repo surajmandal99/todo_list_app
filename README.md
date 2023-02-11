@@ -1,7 +1,7 @@
 # todo_list_app 🪄
  
-A new Flutter App know as TODO List app in which we can note down our whole day schedule tasks and complete it accordingly.
-In the TODO app data is stored in the local device which we can delete after completing  the task maintained  in the daily task assigned by the users.
+# A new Flutter App know as TODO List app in which we can note down our whole day schedule tasks and complete it accordingly.
+In the TODO app data is stored in the local device which we can delete after completing  the task maintained  in the daily task assigned by the users.📲
 
 
 ## Getting Started
