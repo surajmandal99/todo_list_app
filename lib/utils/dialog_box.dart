@@ -24,11 +24,11 @@ class DialogBox extends StatelessWidget {
       insetPadding: const EdgeInsets.all(22),
       backgroundColor: Colors.white,
       content: SizedBox(
-        height: 120,
+        height: 160,
         child: Column(
-          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
-            //user input for adding new tas
+            //user input for adding new task
             TextField(
               controller: controller,
               decoration: InputDecoration(

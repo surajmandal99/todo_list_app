@@ -52,7 +52,12 @@ class ToDoTile extends StatelessWidget {
                 ),
               ),
               //new task name
-              Text(taskName),
+              Expanded(
+                child: Text(
+                  taskName,
+                  maxLines: 20,
+                ),
+              ),
             ],
           ),
         ),
